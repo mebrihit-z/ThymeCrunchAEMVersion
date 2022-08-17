@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/thymecrunchaem",
+        "create path (nt:unstructured) /content/dam/thymecrunchaem/jcr:content",
+        "set properties on /content/dam/thymecrunchaem/jcr:content\n  set cq:conf{String} to /conf/thymecrunchaem\n  set jcr:title{String} to \"ThymeCrunchAEM\"\nend"
+    ]
+}

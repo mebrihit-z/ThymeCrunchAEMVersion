@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/thymecrunchaem" mode="merge"/>
+    <filter root="/content/thymecrunchaem" mode="merge"/>
+    <filter root="/content/dam/thymecrunchaem/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/thymecrunchaem" mode="merge"/>
+</workspaceFilter>
